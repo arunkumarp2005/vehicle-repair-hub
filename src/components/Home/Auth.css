@@ -1,0 +1,45 @@
+/* Auth.css */
+
+.auth-container {
+    margin-top: 8vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .auth-avatar {
+    margin: 1vh;
+    background-color: #ff5722;
+  }
+  
+  .auth-form {
+    width: 100%; /* Fix IE11 issue. */
+    margin-top: 1vh;
+  }
+  
+  .auth-textfield {
+    margin: 10px 0;
+  }
+  
+  .auth-submit {
+    margin: 3vh 0 2vh;
+  }
+  
+  .auth-link {
+    text-align: center;
+    margin-top: 2vh;
+  }
+  
+  .auth-link a {
+    color: #ff5722;
+    text-decoration: none;
+  }
+  
+  .auth-link a:hover {
+    text-decoration: underline;
+  }
+  

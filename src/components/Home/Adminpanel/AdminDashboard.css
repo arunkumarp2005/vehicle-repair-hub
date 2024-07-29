@@ -1,0 +1,13 @@
+.admin-dashboard {
+    padding-top: 80px; /* Adjust for the fixed header */
+  }
+  
+  .dashboard-card {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dashboard-card h6 {
+    margin-bottom: 15px;
+  }
+  

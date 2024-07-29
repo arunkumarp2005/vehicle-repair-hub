@@ -1,0 +1,51 @@
+.testimonials-section {
+    padding: 70px;
+    background: #f4f4f4;
+    text-align: center;
+    margin-top: 90px;
+    width: 100; /* Ensure it takes the full width */
+    position: relative;
+  }
+  
+  .testimonials-section .MuiTypography-h4 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 50px;
+  }
+  
+  .testimonial-slide {
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .testimonial-slide .MuiTypography-body1 {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-slide .MuiTypography-caption {
+    font-size: 1rem;
+    color: #999;
+  }
+  
+  .testimonial-form {
+    margin-top: 40px;
+    max-width: 500px; /* Set a maximum width for the form */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .testimonial-form .MuiTextField-root {
+    margin-bottom: 20px;
+    width: 100%; /* Ensure fields take the full width of the form */
+    max-width: 100%; /* Prevent fields from exceeding form width */
+  }
+  
+  .testimonial-form .MuiButton-root {
+    border-radius: 40px;
+    margin-top: 0px;
+    width: 20%; /* Make the button span the full width of the form */
+  }
